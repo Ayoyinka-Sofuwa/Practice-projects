@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
 import seaborn as sns
-
+import missingno
 import warnings
 warnings.filterwarnings("ignore")
 
