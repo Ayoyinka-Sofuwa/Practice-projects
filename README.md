@@ -1,1 +1,1 @@
-This is a record of the projects I practise and experiment with daily
+This is a record of the projects I practice and experiment with daily
